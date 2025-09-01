@@ -1,4 +1,4 @@
-<h2 align="center">Learning and Building Everyday ⚡️</h2>
+<h2 align="center">Crafting Code. Creating Impact. 🌱</h2>
 
 <a href="https://github.com/kamaleshyeager">
   <img align="right" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="300">
@@ -8,14 +8,16 @@
 
 ### <img src="https://media4.giphy.com/media/wkW0maGDN1eSc/giphy.gif" width="40" align="absmiddle"> Account Status :
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshyeager&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=kamaleshyeager&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
 <details>
-  <summary>Details</summary>
+  <summary>More Stats</summary>
   
-  ![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaleshyeager&show_icons=true&theme=tokyonight)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshyeager&layout=compact&theme=tokyonight)
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=kamaleshyeager&theme=tokyonight)
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshyeager&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </details>
 
 <br/>
@@ -26,14 +28,14 @@
 </h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="35" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="35" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="35" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="35" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="35" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="35" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="35" style="margin:6px;" />
 </div>
 
 <br/>
