@@ -42,14 +42,21 @@
 
 <h2>🚀 Projects</h2>
 
+- **[Next.js AI Chatbot](https://github.com/kamaleshyeager/nextjs-ai-chatbot)**  
+  A full-stack chatbot template powered by **Next.js App Router** and **Vercel AI SDK**.  
+  - Features chat persistence with Neon (Postgres), file storage with Vercel Blob, and authentication via Auth.js.  
+  - Built with TypeScript (~97%), Tailwind CSS, and shadcn/ui for a modern UI.  
+  - Supports multiple AI providers (xAI Grok, OpenAI, Anthropic, Cohere).  
+  - One-click deployable to Vercel.  
+
 - **[Diabetic Retinopathy Detection](https://github.com/kamaleshyeager/)**  
-  Implemented ResNet-152 & DenseNet-121 for retinal image classification (94.7% accuracy).
+  Implemented ResNet-152 & DenseNet-121 for retinal image classification (**94.7% accuracy**).  
 
 - **[Bird Species Recognition](https://github.com/kamaleshyeager/)**  
-  Built and tested deep learning models (VGG16, ResNet) to classify bird species with 91.86% accuracy.
+  Built and tested deep learning models (VGG16, ResNet) to classify bird species with **91.86% accuracy**.  
 
 - **[Sentiment Analysis of Hotel Reviews](https://github.com/kamaleshyeager/)**  
-  NLP-based project using data preprocessing, encoding, and ML for text classification.
+  NLP-based project using data preprocessing, encoding, and ML for text classification.  
 
 <br/>
 
