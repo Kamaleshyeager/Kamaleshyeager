@@ -23,19 +23,16 @@
 
 <br/>
 
-<h2 align="left">📌 Currently :</h2>
+<h2 align="left">Currently</h2>
 
 <table align="left">
   <tr>
     <td valign="top" width="360">
-      <ul>
-        <li>💼 Data Engineer at <b>Tata Consultancy Services (TCS)</b> — JLR account</li>
-        <li>☁️ Working with <b>GCP / BigQuery</b> for enterprise data warehousing</li>
-        <li>🔧 Building ETL pipelines with <b>Python</b> &amp; <b>Apache Airflow</b></li>
-        <li>📊 Dashboards &amp; reporting in <b>Looker Studio</b></li>
-        <li>🤖 Exploring GenAI/LLM integration (Claude, GPT, Gemini) for workflow automation</li>
-        <li>📍 Based in Pune, Maharashtra, India</li>
-      </ul>
+      Data Engineer at <b>Tata Consultancy Services (TCS)</b>, working on the <b>JLR</b> account.
+      <br/><br/>
+      Building and maintaining ETL pipelines on <b>GCP / BigQuery</b>, writing optimized SQL for an enterprise data warehouse, and using <b>Python</b> for data quality automation. Also spend time exploring GenAI/LLM tooling on the side.
+      <br/><br/>
+      Based in Pune, India.
     </td>
     <td valign="top">
       <img src="https://streak-stats.demolab.com?user=kamaleshyeager&theme=tokyonight&hide_border=true" height="180"/>
