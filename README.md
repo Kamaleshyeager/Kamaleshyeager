@@ -1,24 +1,10 @@
 <h2 align="center">Crafting Code. Creating Impact. 🌱</h2>
 
-<a href="https://github.com/kamaleshyeager">
-  <img align="right" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="300">
-</a>
-
-<br/>
-
-### <img src="https://media4.giphy.com/media/wkW0maGDN1eSc/giphy.gif" width="40" align="absmiddle"> Account Status :
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshyeager&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=kamaleshyeager&theme=tokyonight&hide_border=true" height="150"/>
+<p align="center">
+  <a href="https://github.com/kamaleshyeager">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+TCS+(JLR+Account);Building+ETL%2FELT+pipelines+on+GCP+%26+BigQuery;GenAI+%2F+LLM+Prototyping+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
-
-<details>
-  <summary>More Stats</summary>
-  
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshyeager&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</details>
 
 <br/>
 
@@ -27,17 +13,37 @@
   <span style="margin-left:6px;">Tech Stack :</span>
 </h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="35" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="35" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="35" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="35" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="35" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="35" style="margin:6px;" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,gcp,aws,mysql,git,github,vscode" alt="Tech Stack" />
+</p>
 
+<p align="left">
+  <em>Core focus: SQL &amp; Google BigQuery • ETL/ELT Pipelines • Apache Airflow • Python (data quality &amp; automation) • Looker Studio</em>
+</p>
+
+<br/>
+
+<h2 align="left">📌 Currently :</h2>
+
+<table align="left">
+  <tr>
+    <td valign="top" width="360">
+      <ul>
+        <li>💼 Data Engineer at <b>Tata Consultancy Services (TCS)</b> — JLR account</li>
+        <li>☁️ Working with <b>GCP / BigQuery</b> for enterprise data warehousing</li>
+        <li>🔧 Building ETL pipelines with <b>Python</b> &amp; <b>Apache Airflow</b></li>
+        <li>📊 Dashboards &amp; reporting in <b>Looker Studio</b></li>
+        <li>🤖 Exploring GenAI/LLM integration (Claude, GPT, Gemini) for workflow automation</li>
+        <li>📍 Based in Pune, Maharashtra, India</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://streak-stats.demolab.com?user=kamaleshyeager&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
+
+<br clear="both"/>
 <br/>
 
 <h2>🚀 Projects</h2>
