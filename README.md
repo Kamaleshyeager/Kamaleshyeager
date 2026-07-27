@@ -1,63 +1,84 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=kamalesh%20nutakki&fontSize=50&fontColor=FFFFFF&animation=blinking&fontAlignY=55&desc=→%20data%20engineer%20·%20ai%20tinkerer%20·%20cloud%20nerd&descSize=15&descColor=AAAAAA&descAlignY=75" />
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=kamalesh%20nutakki&fontSize=50&fontColor=FFFFFF&animation=blinking&fontAlignY=55&desc=→%20data%20engineer%20·%20ai%20tinkerer%20·%20cloud%20nerd&descSize=15&descColor=AAAAAA&descAlignY=75" />
-</picture>
+<h2 align="center">Crafting Code. Creating Impact. 🌱</h2>
+
+<a href="https://github.com/kamaleshyeager">
+  <img align="right" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" width="300">
+</a>
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=building+pipelines+that+don%27t+break+at+3am.;teaching+machines+to+see+%F0%9F%91%81%EF%B8%8F;wiring+llms+into+everything.;currently+%40+tcs+%E2%86%92+jlr+account." alt="typing" />
+### <img src="https://media4.giphy.com/media/wkW0maGDN1eSc/giphy.gif" width="40" align="absmiddle"> Account Status :
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshyeager&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=kamaleshyeager&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<details>
+  <summary>More Stats</summary>
+  
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshyeager&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</details>
+
 <br/>
 
-<div align="center">
+<h2 align="left">
+  <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle" />
+  <span style="margin-left:6px;">Tech Stack :</span>
+</h2>
 
-[![](https://img.shields.io/badge/%20linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalesh-nutakki-a76051229)
-&nbsp;
-[![](https://img.shields.io/badge/%20gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamalesh.nutakki@gmail.com)
-&nbsp;
-[![](https://img.shields.io/badge/%20aws%20certified-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](https://www.credly.com/)
-
-</div>
-
----
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshyeager&layout=donut&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6&title_color=58A6FF" />
-
-**`stack`**
-
-```python
-languages = ["Python", "SQL", "Java"]
-data_eng   = ["BigQuery", "Airflow", "ETL", "GCP"]
-ai_genai   = ["Claude API", "Gemini", "GPT", "RAG"]
-ml         = ["TensorFlow", "PyTorch", "scikit-learn"]
-web        = ["Next.js", "TypeScript", "Vercel"]
-```
-
-<br clear="right"/>
-
----
-
-**`contribution map`**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Kamaleshyeager/Kamaleshyeager/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Kamaleshyeager/Kamaleshyeager/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Kamaleshyeager/Kamaleshyeager/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshyeager&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=58A6FF&title_color=58A6FF&text_color=8B949E&hide_title=true&hide_rank=true&include_all_commits=true" height="120" />
-  <img src="https://streak-stats.demolab.com?user=kamaleshyeager&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=FFA500&currStreakLabel=8B949E" height="120" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="35" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="35" style="margin:6px;" />
 </div>
 
 <br/>
 
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&reversal=false" width="100%" />
-</picture>
+<h2>🚀 Projects</h2>
+
+- **[Next.js AI Chatbot](https://github.com/kamaleshyeager/nextjs-ai-chatbot)**  
+  A full-stack chatbot template powered by **Next.js App Router** and **Vercel AI SDK**.  
+  - Features chat persistence with Neon (Postgres), file storage with Vercel Blob, and authentication via Auth.js.  
+  - Built with TypeScript (~97%), Tailwind CSS, and shadcn/ui for a modern UI.  
+  - Supports multiple AI providers (xAI Grok, OpenAI, Anthropic, Cohere).  
+  - One-click deployable to Vercel.  
+
+- **[Diabetic Retinopathy Detection](https://github.com/kamaleshyeager/)**  
+  Implemented ResNet-152 & DenseNet-121 for retinal image classification (**94.7% accuracy**).  
+
+- **[Bird Species Recognition](https://github.com/kamaleshyeager/)**  
+  Built and tested deep learning models (VGG16, ResNet) to classify bird species with **91.86% accuracy**.  
+
+- **[Sentiment Analysis of Hotel Reviews](https://github.com/kamaleshyeager/)**  
+  NLP-based project using data preprocessing, encoding, and ML for text classification.  
+
+<br/>
+
+<h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="60" align="absmiddle"> Let's Connect - </h3>
+
+<table width="120" align="left">
+  <tr>  
+    <td align="center" width="60">
+      <a href="https://x.com/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://linkedin.com/in/kamalesh-nutakki-a76051229"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" height="36" width="65"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="mailto:kamalesh.nutakki@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png" width="80"></a>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<div align="left">
+  <h2><b>👀 Visitor Count</b></h2>
+  <img src="https://count.getloli.com/@kamaleshyeager?theme=booru-huggboo" alt="Visitor Count" />
+</div>
